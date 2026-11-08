@@ -19,3 +19,45 @@ h1 {
     text-transform: uppercase;
     font-weight: bold;
 }
+
+.page-header {
+    max-width: 1334px;
+    margin: 0 auto 50px; 
+    padding: 20px;
+}
+
+.page-hero {
+    max-width: 1334px;
+    margin: 0 auto 100px; 
+    padding: 50px 20px;
+}
+
+.page-about {
+    max-width: 1334px;
+    margin: 0 auto 100px; 
+    padding: 40px;
+}
+
+.page-events {
+    max-width: 1334px;
+    margin: 0 auto 100px; 
+    padding: 40px;
+}
+
+.page-blog {
+    max-width: 1334px;
+    margin: 0 auto 100px; 
+    padding: 40px;
+}
+
+.page-contacts {
+    max-width: 1334px;
+    margin: 0 auto 100px; 
+    padding: 40px;
+}
+
+.page-footer {
+    max-width: 1334px;
+    margin: 0 auto; 
+    padding: 40px;
+}
